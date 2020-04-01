@@ -219,9 +219,7 @@ pheme_sydneysiege.csv
 
 ### Attributes
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Some of the importatnt attribtes extracted are,
 
 ```
 is_rumor
